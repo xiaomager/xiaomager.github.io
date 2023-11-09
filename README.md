@@ -4,7 +4,7 @@ Welcome to my profile! As an avid game server programmer, I bring to the table a
 
 ## Contact Information
 
-- :email: Email: [majun@126.com](mailto:majun@126.com)
+- :email: Email: [majun@126.com](mailto:majun@126.com) 
 
 ## Technical Skills
 
